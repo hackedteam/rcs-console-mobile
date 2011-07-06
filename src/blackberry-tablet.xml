@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<qnx>
+   <permission>access_shared</permission>
+   <permission>read_geolocation</permission>
+   <permission>access_internet</permission>
+   <permission>play_audio</permission>
+   <permission>post_notification</permission>
+   <permission>set_audio_volume</permission>
+</qnx>
